@@ -1,0 +1,1 @@
+csnes Super Mario All-Stars.smc > hex.txt

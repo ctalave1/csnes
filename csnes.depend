@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1442790406 source:e:\programming\c\csnes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"includes/myio.h"
+
+1442296027 e:\programming\c\csnes\includes\myio.h
+	<stdio.h>
+	<stdarg.h>
+
+1442790333 source:e:\programming\c\csnes\5a22\disasm5a22.c
+	<stdio.h>
+	<stdlib.h>
+
